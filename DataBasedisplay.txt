@@ -1,0 +1,22 @@
+=============================================================BOOKS INFORMATION===================================================================
+Title                                               Author                   Genre               Price         Sale Quantity        Rent Quantity
+=================================================================================================================================================
+One Hundred Years of Solitude                       Gabriel Garcia Marquez   Fiction             39.70         95                   50
+The Great Gatsby                                    F. Scott Fitzgerald      Fiction             26.29         90                   50
+A Tale of Two Cities                                Charles Dickens          Historical fiction  28.52         100                  50
+The Alchemist (O Alquimista)                        Paulo Coelho             Fantasy             24.99         100                  50
+And Then There Were None                            Agatha Christie          Mystery             19.30         100                  50
+Dream of the Red Chamber                            Cao Xueqin               Family saga         35.99         100                  50
+She: A History of Adventure                         H. Rider Haggard         Adventure           0.00          100                  50
+The Da Vinci Code                                   Dan Brown                Mystery thriller    21.04         100                  50
+Harry Potter and the Philosopher's Stone            J. K. Rowling            Fantasy             90.99         100                  50
+Harry Potter and the Chamber of Secrets             J. K. Rowling            Fantasy             121.40        100                  50
+Harry Potter and the Prisoner of Azkaban            J. K. Rowling            Fantasy             121.40        100                  50
+Harry Potter and the Goblet of Fire                 J. K. Rowling            Fantasy             31.00         100                  50
+Harry Potter and the Order of the Phoenix           J. K. Rowling            Fantasy             31.00         100                  50
+Harry Potter and the Half-Blood Prince              J. K. Rowling            Fantasy             31.00         100                  50
+Harry Potter and the Deathly Hallows                J. K. Rowling            Fantasy             35.20         100                  50
+The Catcher in the Rye                              J. D. Salinger           Coming-of-age       30.00         100                  50
+The Bridges of Madison County                       Robert James Waller      Romance             26.00         100                  50
+The Bridges of Madison County                       Robert James Waller      Romanceefwfe        23.00         0                    0
+A                                                   B                        C                   2.00          0                    2
